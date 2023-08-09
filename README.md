@@ -19,5 +19,6 @@ hasło: demo
 
 <br/>
 
+Tworzene kodów kreskowych oparte na https://github.com/picqer/php-barcode-generator
 
 © Autor Michał Sierzputowski
